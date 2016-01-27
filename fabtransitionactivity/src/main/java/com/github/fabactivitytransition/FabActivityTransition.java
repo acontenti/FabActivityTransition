@@ -43,7 +43,7 @@ public class FabActivityTransition {
 	}
 
 	private void build() {
-		ViewGroup viewGroup = (ViewGroup) ((ViewGroup) activity.findViewById(android.R.id.content)).getChildAt(0);
+		ViewGroup viewGroup = (ViewGroup) activity.findViewById(android.R.id.content);
 		sheetLayout = new SheetLayout(activity, properties);
 		sheetLayout.setFab(fab);
 		sheetLayout.setFabAnimationEndListener(new SheetLayout.OnFabAnimationEndListener() {
