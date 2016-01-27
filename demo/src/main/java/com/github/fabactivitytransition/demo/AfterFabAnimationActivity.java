@@ -1,4 +1,4 @@
-package com.github.fabtransitionactivity.demo;
+package com.github.fabactivitytransition.demo;
 
 import android.os.Bundle;
 import android.view.Menu;

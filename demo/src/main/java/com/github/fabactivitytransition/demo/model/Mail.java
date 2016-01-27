@@ -1,8 +1,5 @@
-package com.github.fabtransitionactivity.demo.model;
+package com.github.fabactivitytransition.demo.model;
 
-/**
- * Created by Cristopher on 11/6/15.
- */
 public class Mail {
 
     private int circleColor;

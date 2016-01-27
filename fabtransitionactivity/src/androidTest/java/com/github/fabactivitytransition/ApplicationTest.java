@@ -1,4 +1,4 @@
-package com.github.fabtransitionactivity;
+package com.github.fabactivitytransition;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

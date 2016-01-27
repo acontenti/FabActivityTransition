@@ -1,11 +1,8 @@
-package com.github.fabtransitionactivity.demo;
+package com.github.fabactivitytransition.demo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 
-/**
- * Created by Cristopher on 11/6/15.
- */
 public class BaseActivity extends AppCompatActivity {
 
     protected void setUpToolbarWithTitle(String title, boolean hasBackButton){
